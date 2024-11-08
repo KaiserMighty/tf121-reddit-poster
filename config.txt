@@ -1,0 +1,45 @@
+SUBREDDIT=FindAUnit
+TITLE=[A3][Recruiting][MILSIM][New Player Friendly] Task Force 121
+FLAIR=Recruiting
+
+IMAGES
+75th Ranger Regiment
+Combat Applications Group
+Tactical Developments and Evaluations Squadron 2
+160th Special Operations Aviation Regiment
+24th Special Tactics Squadron
+528th Sustainment Brigade
+
+COMMENT_START
+**About Task Force 121:**
+
+Task Force 121 is a Mil-Sim group. Our first rule is that real life always comes first so there are no mandatory operations within the Task Force. Whether you are new to Arma or an experienced player, TF 121 has a unit to suit your play style and operation times to fit your schedule. Our operations always utilize all units within the Task Force resulting in a more vast, dynamic and immersive experience. With a large active player base and a 24/7 server, training and mini-ops are held frequently to build your skills and provide the opportunity to train with other units within the Task force. If you want to be a part of an expansive, well organized and exciting Mil-Sim unit, then Task Force 121 is for you! Join our TeamSpeak or request to join our Facebook page to get started!
+
+**-Units in Task Force 121:**
+
+75th Ranger Regiment (Army Rangers)
+
+Combat Applications Group (Delta Force)
+
+Tactical Developments and Evaluations Squadron 2 (Seal Team 6)
+
+528th Sustainment Brigade (Artillery and Drones)
+
+160th Special Operations Aviation Regiment (Rotary-Wing)
+
+24th Special Tactics Squadron (Pararescue)
+
+**Operation Times:**
+
+\~Mondays, Wednesdays, Fridays, & Saturdays @ 20:30 CST
+
+***Age Requirements: 16***
+
+**WE ARE NOT JUST A MILSIM, WE ARE A COMMUNITY**
+
+[Video Trailer](https://youtu.be/-QIxhP92sdE)
+
+[Another Video Trailer](https://www.youtube.com/watch?v=i5S6YH2o-E0)
+
+[Discord Invite](https://discord.gg/taskforce121)
+COMMENT_END
