@@ -1,5 +1,5 @@
 SUBREDDIT=FindAUnit
-TITLE=[A3][Recruiting][MILSIM][New Player Friendly] Task Force 121
+TITLE=[A3][NA][Recruiting][MILSIM][New Player Friendly] Task Force 121
 FLAIR=Recruiting
 
 IMAGES

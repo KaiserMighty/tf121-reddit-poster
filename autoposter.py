@@ -89,7 +89,7 @@ def create_post(subreddit_name, title, images, comment_text, flair_text):
 
     if flair_template_id:
         submission.flair.select(flair_template_id)
-        print(f"Flair '{flair_text}' applied.")
+        print(f"Flair Applied")
     else:
         print(f"Flair '{flair_text}' not found. Available flairs: {[t['text'] for t in flair_templates]}")
 
@@ -112,7 +112,7 @@ def send_discord_message(webhook_url, message):
     if response.status_code == 204:
         print("Posted on Discord")
     else:
-        print(f"Discord failure. Status code: {response.status_code}, Response: {response.text}")
+        print(f"Discord failure code: {response.status_code} - Response: {response.text}")
 
 def schedule_post():
     print(f"Posting on {datetime.now().strftime('%Y-%m-%d %A %H:%M:%S')}")
